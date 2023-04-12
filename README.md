@@ -1,1 +1,5 @@
 # DSA
+#NGEL
+#NGER
+#NSEL
+#NSER
