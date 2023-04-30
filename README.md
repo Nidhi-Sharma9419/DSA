@@ -10,4 +10,6 @@
  - Implementation of queue
 2. Stack
  - Linear Stack
+3. Linked List
+ - Insertion 
  
