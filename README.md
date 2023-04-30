@@ -12,4 +12,6 @@
  - Linear Stack
 3. Linked List
  - Insertion 
+4. Graph
+ - Binary Tree
  
