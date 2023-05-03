@@ -8,6 +8,7 @@
  - Linear Queue
  - Queue using LL
  - Implementation of queue
+ - Implementation of Deque
 2. Stack
  - Linear Stack
 3. Linked List
