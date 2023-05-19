@@ -58,3 +58,45 @@ public class Main{
     }
     }
 
+/*class Solution
+{
+    //Function to insert a node at the beginning of the linked list.
+    Node insertAtBeginning(Node head, int x)
+    {
+        // code here
+        Node LinkedList = new Node(x);
+        LinkedList.data = x;
+        if(head == null){
+            head = LinkedList;
+            return head;
+        }
+        LinkedList.next = head;
+        head = LinkedList;
+        return head;
+        
+    }
+    
+    //Function to insert a node at the end of the linked list.
+    Node insertAtEnd(Node head, int x)
+    {
+        // code here
+        Node LinkedList = new Node(x);
+        LinkedList.data = x;
+        if(head==null){
+            head = LinkedList;
+            return head;
+        }
+        else{
+            Node temp = head;
+            while(temp.next!=null){
+                temp = temp.next;
+            }
+            //LinkedList = temp;
+            temp.next = LinkedList;
+            //return head;
+        }
+        return head;
+    }
+}
+
+*/
