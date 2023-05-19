@@ -12,7 +12,7 @@
 2. Stack
  - Linear Stack
 3. Linked List
- - Insertion 
+ - Insertion: At beginning, at end
 4. Graph
  - Binary Tree
  
